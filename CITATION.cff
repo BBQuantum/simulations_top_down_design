@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these codes, please cite it as below."
+authors:
+- family-names: "Goel"
+  given-names: "Suraj"
+  orcid: "https://orcid.org/0000-0001-8847-4830"
+- family-names: "Leedumrongwatthanakun"
+  given-names: "Saroch"
+- family-names: "Herrera Valencia"
+  given-names: "Natalia"
+- family-names: "McCutcheon"
+  given-names: "Will"
+- family-names: "Conti"
+  given-names: "Claudio"
+- family-names: "Pinkse"
+  given-names: "Pepijn W. H."
+- family-names: "Malik"
+  given-names: "Mehul"
+title: "Simulation Codes for : Inverse-designed programmable optical circuit for high-dimensional entangled states"
+version: 1.0.0
+date-released: 2022-03-13
+url: "https://github.com/BBQuantum/simulations_top_down_design"
