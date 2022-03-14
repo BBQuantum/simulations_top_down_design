@@ -16,7 +16,7 @@ authors:
   given-names: "Pepijn W. H."
 - family-names: "Malik"
   given-names: "Mehul"
-title: "Simulation Codes for : Inverse-designed programmable optical circuit for high-dimensional entangled states"
+title: "Simulation codes for : Inverse-designed programmable optical circuit for high-dimensional entangled states"
 version: 1.0.0
 date-released: 2022-03-13
 url: "https://github.com/BBQuantum/simulations_top_down_design"
