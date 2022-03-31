@@ -1,5 +1,5 @@
 # Supporting simulation codes for paper 
-# Inverse-designed programmable optical circuit for high-dimensional entangled state
+# Inverse-design of high-dimensional quantum optical circuits in a complex medium
  
 ## Suraj Goel, Saroch Leedumrongwatthanakun, Natalia Herrera Valencia, Will McCutcheon,Claudio Conti, Pepijn W. H. Pinkse, and Mehul Malik
 
