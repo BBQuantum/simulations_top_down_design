@@ -1,7 +1,7 @@
 # Supporting simulation codes for paper 
 # Inverse-design of high-dimensional quantum optical circuits in a complex medium
  
-## Suraj Goel, Saroch Leedumrongwatthanakun, Natalia Herrera Valencia, Will McCutcheon,Claudio Conti, Pepijn W. H. Pinkse, and Mehul Malik
+## Suraj Goel, Saroch Leedumrongwatthanakun, Natalia Herrera Valencia, Will McCutcheon, Armin Tavakoli ,Claudio Conti, Pepijn W. H. Pinkse, and Mehul Malik
 
 
 Requirements-
