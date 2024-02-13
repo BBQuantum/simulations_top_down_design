@@ -10,7 +10,7 @@ Requirements-
 2. SciPy
 
 
-## [linear_circuits.py](linear_circuits.py)
+## [linear_circuit.py](linear_circuit.py)
 
 A class structure for consitent matrix multiplications which are expressed as a part of linear circuit
 
